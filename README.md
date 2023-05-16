@@ -10,9 +10,8 @@
 </div>
   
   ---
+About me:
   
-some text
-  </div>
 
 
 
