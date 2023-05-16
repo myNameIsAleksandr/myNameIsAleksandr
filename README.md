@@ -12,5 +12,5 @@
   ---
 About me:
   
-I am a Frontend Developer working with React.js. In the future, it is interesting for me to develop as a full-stack specialist. Additionally, I have experience in marketing and design, which helps me to work more consciously and efficiently
+I am a Frontend Developer working with React.js. I'm also interested in backend technologies and full-stack development. Additionally, I have experience in marketing (analytics, management) and graphic design, which helps me to work more consciously and efficiently.
 
