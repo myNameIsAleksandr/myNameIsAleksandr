@@ -8,7 +8,9 @@
     <img src="https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram&logoColor=white" alt="Telegeram"/>
   </a>
 </div>
+  
   ---
+  
 some text
   </div>
 
