@@ -13,4 +13,9 @@
 About me:
   
 I am a Frontend Developer working with React.js. I'm also interested in backend technologies and full-stack development. Additionally, I have experience in marketing (analytics, management) and graphic design, which helps me to work more consciously and efficiently.
+  
+  
+  ---
+
+### :hammer_and_wrench: Languages and Tools :
 
